@@ -1,10 +1,26 @@
-# iOS Developer Roadmap by [https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ROADMAP.md]
-- [ ] [`Backend`]
-    - [ ] [`Сети`]
-        - [ ] [`Интернет`]
-            - [`Хостинг`] (https://thecode.media/vds)
+# my developer roadmap
+
+My interests is iOS and backend development.
+
+sources: <a href="https://github.com/BohdanOrlov/iOS-Developer-Roadmap/blob/master/RoadmapProject/Script/Generated/ROADMAP.md">iOS</a>, <a href="https://roadmap.sh/backend">backend</a>
+
+I'm try collect here info about of other side development.
+
+## plan
+<ul>
+    <li>Base Computer Science
+        <ul>
+            <li><a href="os.htm">Operation systems</a></li>
+            <li><a href="algo.htm">Algoritms</a></li>
+            <li><a href="db.htm">Databases</a></li>
+            <li><a href="net.htm">Networks & Internet</a></li>
+        </ul>
+    </li>
+    <li></li>
+</ul>
+
 - [ ] [`iOS Developer`](Resources/iOS_Developer/RESOURCES.md)
-    - [ ] [`Practical knowledge`](Resources/iOS_Developer/Practical_knowledge/RESOURCES.md)
+    - [ ] [`Practical knowledge`](Resources/iOS_Developer/Practical_knowledge/RESOURCES.md)åå
         - [ ] [Getting started](Resources/iOS_Developer/Practical_knowledge/Getting_started/RESOURCES.md)
             - [ ] [First pet project ideas](Resources/iOS_Developer/Practical_knowledge/Getting_started/First_pet_project_ideas/RESOURCES.md)
         - [ ] [`Languages`](Resources/iOS_Developer/Practical_knowledge/Languages/RESOURCES.md)
